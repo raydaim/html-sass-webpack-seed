@@ -11,7 +11,7 @@ Each time you add an html to your project you must add it to the webpackconig, f
 
 ```javascript
   new HtmlWebpackPlugin({
-            template: 'src/index.html',
-            filename:'index.html'
+            template: 'src/about.html',
+            filename:'about.html'
         }),
 ```
