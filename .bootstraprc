@@ -1,0 +1,10 @@
+{
+
+  "bootstrapVersion": 4,
+  // And JSON comments also!
+  "styleLoaders": ["style-loader", "css-loader","postcss-loader", "sass-loader"],
+
+  "styles": true,
+
+  "scripts": true
+}
